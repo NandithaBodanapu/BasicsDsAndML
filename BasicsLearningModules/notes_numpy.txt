@@ -1,0 +1,45 @@
+Numpy notes
+scalar operation: operations on single value
+vector operations: operation on collection of values
+vectorized operations are faster and numpy  uses vectorized operations
+Arrays vs List
+
+List:
+-does not let you do vectorized operations
+-different datatypes in same list
+-can increase or decrease size once created
+Arrays:
+-allows vectorized operations
+-data type must be same for all values
+-cannot change size once created
+-occupies less space compared to list
+
+Array attributes:
+dimensions -1d,2d,3d,
+shape-size of each dimention
+size-number of elements in an array
+data type-int , float etc
+itemsize-size in bytes  of each element
+nbytes-total size of array
+
+Reshaping of arrrays
+- changing the look of array but number of elements remain same
+example 2X3 matrix is rehaped to 3X2 matrix with all the elements as it is
+    2X3      3X2
+  [0 1]    [0 2 4]
+  [2,3]    [1 3 5]
+  [4,5]
+
+Horizontal and Vertical Split
+Lines
+Horizontal line -> -- (paralled to x axis)
+Vertical line -> | (parallel to y axis)
+
+Axis
+Horizontal Axis= Columns  # 1 axis
+Vertical Axis = Rows #0 axis
+So,
+Horizontal_split -> (left_split , right_split)
+Vertical_split -> (top_split,bottom_split)
+
+
