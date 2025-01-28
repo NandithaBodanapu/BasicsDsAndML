@@ -1,0 +1,46 @@
+Machine learning
+the computer learns by itself without being programmed
+>Data
+
+>Features
+- variable or parameter
+- must choose meaningful features
+>Algorithm
+example classification
+Types of Machine leaning algorithms
+4 groups
+- supervised Learning
+-unsupervised Learning
+-Semisupervised Learning
+-Reinforcement Learning
+
+Supervised Learning:
+-algorithm has supervisor or teacher
+-two basic types of algorithms
+-choose the algorithm based on the required output
+- will have labels
+
+1.classification
+ - output-yes or no (1,0)
+2.regression
+    -continuous outputs
+    - target number prediction
+
+Unsupervised Learning:
+    - to find relationship in data
+    -example image size reduction , based on clustering of the nearby pixels
+
+Semisupervised learning
+- contains few data which are labeled , and mostly non labeled data
+-example , in iphone photos,
+unsupervised part -it recognizes a picture of a person in two photos,
+user input - label the person
+supervised part- can name everyone in every photo
+
+Reinforcement learning:
+- advanced category of learning
+- Learning system - refered to as Agents
+1.Agents are exposed to new environments
+2.Agents perform some actions
+3.Agents receives rewards or penalties based on the action
+4.By trails and error they learn to maximize their rewards

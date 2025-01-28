@@ -1,0 +1,12 @@
+Linear Regression
+- as name suggest - continuous outputs
+-y = mx+c
+- tries to fit the the relationship of data along a line, we can predict the values based on the line
+x= one(simple linear regression) or more(multiple linear regression) independent variables
+y=dependent variable
+m=slope
+- we should be careful to identify the optimal values of m and b
+-Least squares model
+-vertical distance from each datapoint to the line are minimum
+
+Logistic regression

@@ -1,0 +1,43 @@
+Statistics Basics
+Mean- sum of elements/number of elements
+
+Median- arange in ascending order ,
+    if odd-the middle value
+    if even - sum of middle values /2
+
+Standard Deviation:
+- high standard deviation means data is spreadout
+arr[ar1,ar2,ar3], n=3
+1- calculate mean ar1+ar2+ar3/3
+2-calculate variance ->(sum of squares of ( mean -each value )) /3 # high variance = the data poins are scattered
+3-standard deviaton=(variance)^(1/2)
+
+Correlation coefficient
+-relationship between two values
+-how one value influences the other
+For two sets A,B if the corelation coefficient is
+1 - the two sets A,B are related well
+0 - no relation exists
+-1 -negative corelation , A inversly affects B
+
+Causation - just because the numerical value of corelation is 1, does not mean they have a good relation
+example eating food ->gaining weight (can have a positve corealtion)
+example position of moon->gaining weight (can generate positive corelation, but has no influence) hencd causation
+
+
+BAYESIAN STATISTICS
+bayes theorem:
+probability as - a degree of belief
+
+P(A|B)=(P(A) *P(B|A))/P(B)
+Where,
+p(A)-probability of event x on its own
+p(B)-probability of event y on its own
+p(B|A)-how often B happens given that A already happend
+Example:
+
+
+
+
+
+

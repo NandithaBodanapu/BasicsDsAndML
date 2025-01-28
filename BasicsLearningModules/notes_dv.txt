@@ -1,0 +1,26 @@
+Scatter plot:
+- used for exploring and presenting data
+allows us to explore almost 4 different dimentsion
+x,y accoutn for 2 dimentions
+using coloe we can show another dimention
+using size of the scatter plot we can represent another feature
+
+Line plot:
+line plot displays data points connected by straight line segments
+- relationship between datasets
+
+Histograms:
+x-axis bins ranges
+y axis frequency
+
+Bar Plots:
+- works well for categorical data
+- categorical data example -gender(male , female), votes(yes,no), scores_mpc(math , physics, chemisty)
+- works well when we are dealing with few categories
+-histogram vs bar plot
+    histogram- continuous variables, frequency distribution
+    bar plot-discrete variables,comparison
+Box plot:
+-shows the median
+-shows the skewedness of data
+- shows if any outliers are there

@@ -1,0 +1,79 @@
+probability gives us the percent chance of an event occuring
+probability distribution  is a function that shows the probabilities of all possible values
+example - incase of missing data , using the probability distribution we can replace the missing value with observed probabilities
+
+RANDOM VARIABLES
+- set of possible values from random experiment
+-Discrete data
+ -can only take specified values,
+-tossing a coin only gives 2 outcomes heads or tails, no inter mediary outcome
+- rolling a die only gives 6 outcomes, cannot get 2.3 or 4.5
+-Continuouse data
+- can take many values ,
+1-1.2
+range can be finite or infinite
+
+probability distributions
+-discerete probability distribution - discrete variables
+-probability density functions- continuous function
+
+types of distribution
+- uniform distribution:
+    basic probability distribution (x axis many vary)
+- bernoullis distribution:
+    one single trial
+    discrete probability distribution
+    (p,1-p)-(x axis( 0,1))
+-Binomial Distribution:
+    -multiple trial
+    - number of trials are fixed and all trials are identical
+    - 2 outcomes , (0 or 1) ( pass or fail)
+    -probability of success for both the outcomes are the same
+    -the outcome of one trail does not affect the other
+
+- Normal distribution:
+    - AKA bell curve, Gaussian distribution
+    - mean = meadian = mode
+    - 50% less than mean and the other 50% greater than mean
+    -symmetrical
+standardizibng the distribution using zscores
+zscores=  a way to test w.r.t the mean
+var x, mean -mue, variance -sigma^2
+zscore=(x-mue)/sigma
+converting  a normal distribution  into (mean=0, standardeviation=1)= standard normal distribution
+
+Poisson Distribution;
+probability of - given numbe of events in a fixed interval of time
+- forcasting earthquakes
+- number of succeses in two disjoint time interval is independent.
+- probability of successes in  small time intervals  is proportional to entire length of time interval
+-probability of sucess as interval aproaches zero, interval becomes smaller
+
+Exponential Distribution:
+poisson example- shoping trends
+we have monitored shopping trends for a given time period using poisson, and have found days with low trends.
+now using exponential distribution we can identify, the time between two low trends
+
+flatter the curve - lower the rate of event likely to occure
+the sharper the curve drops- higher the rate of occurance
+
+STATISTICAL SIGNIFICANCE
+-is a measure of weather our findings are meaningful or just a result of random chance
+3 steps
+1.hypothesis testing
+    evaluating a teory using data
+    -Null hypothesis-
+        refers to commonly accepted fact, our goal is to disprove this fact
+
+    -Alternate hypothesis
+        opposite theory to null hypothesis
+2.Normal distribution
+-z test, hypothesis test to alternate hypothesis ,sample data is normally distributed, sample size greated thatn 30
+- CLT- central limit theorem, applies when sample size is greater than 30
+
+3.p-values
+- quantifies rareness in our results
+-compare p-value to a SIGNIFICANCE value (alpha)(we choose)(0.05, usually used value/ can change in certain situations)
+- small p value less than significance value-numbers can rarely occur stand alone , and we can reject the null hypothesis
+-large p value-accept that null hypothesis is valid
+

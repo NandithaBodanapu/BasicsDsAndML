@@ -1,0 +1,27 @@
+#box plot
+- useful for identification in dispersion of data
+- this data shows outliers
+-prelimnary analysis of large data
+-data skewdness
+give 5 summary details
+minimum value- least value
+LowerQuartile - less than 25% of the data(25th oercentile)
+median- as the name suggest the middle value (50th percntile)
+Upperquartile -above 75% of the data(75th percentile)
+highest value-highest value
+outliers- lies outside the min,max range(3/2 times the lower and hugher range)
+
+Reading/Interpreting  a box plot
+- small box plot - small range(data points withing small range)
+-tall box plot- wide range
+-median  if in the center means its a balanced data
+- median to the closer to the bottom means most data points are in the lowe region
+-median closer to the top means most of the datapoints are in higher range
+-whiskers or (distance from 25th percentile to min)/distance from 75thpercentile to max values
+-whiskers can be long or short depending on the data
+-long whiskers - high variance,standard deviation
+-long whiskers on one side and short on another means , there is a direction
+
+
+
+
