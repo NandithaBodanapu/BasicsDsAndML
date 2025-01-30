@@ -1,4 +1,4 @@
-Linear Regression
+Linear Regression:
 - as name suggest - continuous outputs
 -y = mx+c
 - tries to fit the the relationship of data along a line, we can predict the values based on the line
@@ -9,4 +9,35 @@ m=slope
 -Least squares model
 -vertical distance from each datapoint to the line are minimum
 
-Logistic regression
+Logistic regression:
+-output has only two possible values (0,1)
+- we pass the outcome through a logistic function, that produces a range (0,1)
+-we set a threshold value (say,0.5), if the output is less than threshold value then we set 0 , else 1
+
+Decision Tree
+- top down approach
+- the precedence goes from top to bottom, ie closer to the root , higher the priority
+-
+Naive Bayes:
+- used for classification
+Bayes theorem -P(A|B)=(P(B|A)*P(A))/P(B)
+Naive because- we assume A,B are independent of each other (not necessarily true in real time data)
+Example
+event a- rainbow // target
+event b- raining // condition
+if it rains, will we see a rainbow - assumption
+using these we try to classify
+-Another realtime example - spam filter
+
+Support vector machines
+- used for classification
+- if we takes n input features , we get n dimentions
+- the svm creates separation lines among the features called hyperplane
+Margin- distance between the hyperplane and closest class point
+
+- the optimal hyperplane is the one which has largest margins from the features
+
+
+
+
+

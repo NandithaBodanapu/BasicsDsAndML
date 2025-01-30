@@ -1,0 +1,32 @@
+#Basic steps/ practices to approach an ML project
+Broader scope:
+-Get data
+-Clean , prepare and maniputlate the data
+-Train model
+-Test data
+-Improvise the model
+In realtime,
+Before we begin the project its always nice to get an objective
+- we may come across multiple meaningful insights, but may not be what the customer really wants
+- its always good to ask questions and get it cleared
+- keeping the task at hand , we can choose the required algorithm/model
+-helps us use a visualization technique ,that can better showcase our work to the client
+
+
+Going into detail
+1.Exploratory data analysis
+    -go through the data structure
+    -try plotting the data using different attribute to gain a rough idea about the problem
+    -identify the data types
+    -see if there is any corelation among attributes
+2.Prepare the data
+ -check for missing values, and replace them appropriate values
+ -check for outliers
+ -corelated attributes
+
+3.scikit learn
+4.train models and assess them
+5. evaluation of different models
+6.cross validation
+7. model visualization
+8.maintain

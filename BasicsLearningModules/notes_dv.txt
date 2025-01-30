@@ -2,7 +2,7 @@ Scatter plot:
 - used for exploring and presenting data
 allows us to explore almost 4 different dimentsion
 x,y accoutn for 2 dimentions
-using coloe we can show another dimention
+using color we can show another dimention
 using size of the scatter plot we can represent another feature
 
 Line plot:
